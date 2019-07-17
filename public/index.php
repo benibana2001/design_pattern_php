@@ -10,7 +10,8 @@ require_once 'TemplateMethod/TableDisplay.class.php';
 $data_master = array(
     '<a href="TemplateMethod/template_method_client.php">Template Method Pattern</a>',
     '<a href="Singleton/singleton_client.class.php">Singleton Pattern</a>',
-    '<a href="Adapter/adapter_sample_client.php">Adapter</a>'
+    '<a href="Adapter/adapter_sample_client.php">Adapter Pattern</a>',
+    '<a href="FactoryMethod/factory_client.php">FactoryMethod Pattern</a>',
 );
 
 $data_sample = array(
